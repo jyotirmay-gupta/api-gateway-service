@@ -13,6 +13,7 @@
 [![Java](https://img.shields.io/badge/Java-21-brightgreen)](https://www.oracle.com/java/)
 
 **Project:** API Gateway Service
+
 **Description:** This is a personal Spring Cloud API Gateway implementation by Jyotirmay Gupta. It serves as a reactive, non-blocking entry point for routing and filtering HTTP requests to microservices using Spring Cloud Gateway and WebFlux.
 
 The project demonstrates key cloud-native patterns like service discovery, centralized routing, and non-blocking request handling in microservice environments.
